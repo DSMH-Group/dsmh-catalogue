@@ -341,3 +341,7 @@ textarea {
     page-break-after: avoid;
   }
 }
+
+.reason{
+  color: red;
+}
