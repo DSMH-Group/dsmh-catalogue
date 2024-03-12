@@ -2,7 +2,7 @@ var currentGrid = document.getElementById('current');
 var msnryCurrent = new Masonry( currentGrid, {
 	// options for grid1
 	itemSelector: '.grid-item',
-	columnWidth: 150
+	columnWidth: 10
 });
 
 var completedGrid = document.getElementById('completed');
