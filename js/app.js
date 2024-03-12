@@ -9,12 +9,12 @@ var completedGrid = document.getElementById('completed');
 var msnry2 = new Masonry( completedGrid, {
 	// options for grid2
 	itemSelector: '.grid-item',
-	columnWidth: 150
+	columnWidth: 10
 });
 
 var droppedGrid = document.getElementById('dropped');
 var msnry2 = new Masonry( droppedGrid, {
 	// options for grid2
 	itemSelector: '.grid-item',
-	columnWidth: 150
+	columnWidth: 10
 });
